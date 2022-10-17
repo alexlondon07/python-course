@@ -1,2 +1,3 @@
-# python-course
-Python Couse - Udemy
+# Python course
+Python Course - Udemy
+
