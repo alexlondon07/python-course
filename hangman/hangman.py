@@ -18,6 +18,7 @@ word_length = len(chosen_word)
 
 # Print Logo
 from hangman_logo import logo, stages
+
 print(logo)
 
 for _ in range(word_length):
